@@ -7,7 +7,7 @@ Consulta de Cuenta. EL menu se debe repetir hasta que el usuario decida salir.
 
 using namespace std;
 int main() {
-  int password=000000000, user=;
+  int password=000000000, user=12;
   cout << "Bienvenido al cajero automatico" << endl;
   cout << "Por favor ingrese sus credenciales"<<endl;
 
@@ -16,7 +16,7 @@ int main() {
   cout<<"Ingrese su contraseña"<<endl;
   cin>>password;
 
-  if(password 1)
+  if(password )
 
       return 0;
 }
